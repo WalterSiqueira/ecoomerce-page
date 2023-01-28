@@ -1,6 +1,5 @@
-import { useGlobalContext } from '../../Assets/Contexts/global-contexts';
 import React from 'react';
-import { RootState } from '../../Assets/Redux/store';
+import { RootState } from '../../Assets/Data/store';
 import { useDispatch, useSelector } from 'react-redux';
 import cartImg from '../../Assets/images/shopping-cart.png';
 import { CartImageBlock } from "../../Assets/styles/cart-image-style";

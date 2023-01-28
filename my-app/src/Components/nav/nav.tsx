@@ -1,4 +1,3 @@
-//import { useGlobalContext } from "../../Assets/Contexts/global-contexts";
 import React from "react";
 import {Nav} from '../../Assets/styles/nav-style';
 import {LogoComponent} from './logo';

@@ -8,7 +8,7 @@ export interface quantity {
 
 const initialState = {
   productQuantity: {
-    value: 15
+    value: 0
   },
 };
 
